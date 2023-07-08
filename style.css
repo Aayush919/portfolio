@@ -270,7 +270,7 @@ body {
 
 @media (max-width:600px) {
   #page1 {
-      min-height: 40vh;
+      min-height: 50vh;
       width: 100%;
       display: flex;
       align-items: center;
