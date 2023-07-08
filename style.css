@@ -286,8 +286,8 @@ body {
   }
 
   #image-div {
-      height: 45vmax;
-      width: 75vw;
+      height: 45vw;
+      width: 45vw;
       /* border-radius: 50%; */
       /* background-color: red; */
       overflow: hidden;
